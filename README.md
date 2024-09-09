@@ -35,8 +35,9 @@
 - **В Edge (edge)
 ![{A30C8173-D3E4-4979-8EDE-C31BE258836F}](https://github.com/user-attachments/assets/ab446a95-fd25-4bfd-b95c-4bbe69a2eb2f)
 
-- ** С эмулятором скорее всего вызвана проблема, что не устнавливается `Intel® HAXM installer` из-за `HYPER-V.` 
-  Попытаюсь разобраться до практики.
+- ** Сделала через Genymothion, нормально установила Hyper-V и наладила ситуацию с adb.
+  ![{D961964D-7679-4624-A907-C29F1D644550}](https://github.com/user-attachments/assets/95af3475-babf-4173-949d-b88dc3b2db18)
+
 
 # Дополнительное задание с лекции
 
